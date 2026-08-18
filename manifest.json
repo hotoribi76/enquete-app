@@ -1,0 +1,15 @@
+{
+    "name": "アンケート集計簿",
+    "short_name": "集計簿",
+    "description": "ツアーの満足度アンケートをその場で集計・保存・報告書化するツール",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#E9EBEE",
+    "theme_color": "#16233A",
+    "lang": "ja",
+    "icons": [
+          { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    ]
+}
